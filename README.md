@@ -1,6 +1,6 @@
 
 # Heyshare 🚀
-HeyDrop is a login-free web app for instant file, image, and text sharing via secure room links also have real-time syncing across devices using Upstash Redis, with safe uploads , no sign-up, no installation, just seamless sharing.enables temporary sharing sessions where participants can join instantly via a link and collaborate in real time.
+HeyShare is a login-free web app for instant file, image, and text sharing via secure room links also have real-time syncing across devices using Upstash Redis, with safe uploads , no sign-up, no installation, just seamless sharing.enables temporary sharing sessions where participants can join instantly via a link and collaborate in real time.
 
 ## ✨ Features
 
@@ -43,7 +43,7 @@ KV_REST_API_TOKEN=your-token-here
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Nyayabrata01/heydrop.git
+git clone https://github.com/Nyayabrata01/heyshare.git
 cd heydrop
 ```
 
